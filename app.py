@@ -3,8 +3,6 @@ import configparser
 import tweepy
 import random
 import pickle
-import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
 
 app = Flask (__name__)
 
